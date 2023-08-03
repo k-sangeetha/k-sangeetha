@@ -1,0 +1,4 @@
+Generative AI refers to a category of AI systems that can generate new content, such as text, images, or music.
+ChatGPT is powered by a Large Language Model, which is a subcategory of a class of models, called Foundation models.
+In many cases, foundation models are used as the starting point for generative AI systems. They are trained on a vast amount of unstructured data in an unsupervised manner, allowing them to learn the underlying patterns of the data and create new content that is similar to the original data.
+The term "foundation models" was first coined by a team from Stanford. They predict the models will have the foundational capability, that will drive all the applications and use cases by tuning it. Instead of building each model for each task (traditional AI models). 
